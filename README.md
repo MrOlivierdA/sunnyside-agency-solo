@@ -1,12 +1,12 @@
 # Sunnyside Agency
 
-| Challenge Parameters       | Challenge Details  |
-| :------------------------- | :----------------- |
-| Create a public repository | `sunnyside-agency` |
-| Challenge type             | Consolidation      |
-| Duration                   | 2 days             |
-| Team                       | Duo                |
-| Deadline                   | Friday             |
+| Challenge Parameters       | Challenge Details                                                                  |
+| :------------------------- | :--------------------------------------------------------------------------------- |
+| Create a public repository | `sunnyside-agency`                                                                 |
+| Challenge type             | Consolidation                                                                      |
+| Duration                   | 2 days                                                                             |
+| Team                       | [Marlene](https://github.com/llyllyra) & [Olivier](https://github.com/MrOlivierdA) |
+| Deadline                   | Friday                                                                             |
 
 ## Learning objectives
 
