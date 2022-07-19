@@ -16,8 +16,6 @@
 
 ## The mission
 
-![desktop preview](./desktop-preview.jpg)
-
 You've been asked to implement a design for a newly created agency.
 
 The graphic designer gave you all the elements so you can code the thing yourself. You have 2 days, with the power of flexboxes and/or grids you should be able to make it!
